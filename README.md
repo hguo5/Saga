@@ -6,4 +6,4 @@ Our dataset can be found [here](https://drive.google.com/drive/folders/0B82HnblO
 
 To appear in ACM Transactions on the Web (TWEB):
 
-Hui Guo and Munindar P. Singh. **Saga: Understanding Stories in Mobile App Reviews.** *ACM Transactions on the Web (TWEB)*, 2025, 1-22.
+Hui Guo and Munindar P. Singh. 2025. **Saga: Understanding Stories in Mobile App Reviews.** *ACM Trans. Web*, 0, 0, Article 0 (January 2025), 22 pages
